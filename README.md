@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://manjeetportfolio.netlify.app" target="_blank">manjeetportfolio</a>
+  Portfolio Website <br/>
+  <a href="https://manjeetportfolio.netlify.app" target="_blank">Manjeet Portfolio</a>
 </h2>
 
 
